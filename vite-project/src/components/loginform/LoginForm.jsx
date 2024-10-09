@@ -1,7 +1,7 @@
-import { FaUser, FaLock} from "react-icons/fa";
+import { FaUser, FaLock,} from "react-icons/fa";
 import './LoginForm.css';
 
-const LoginForm = () =>{
+function LoginForm() {
     return(
         <div className="wrapper">
             <form action="">
